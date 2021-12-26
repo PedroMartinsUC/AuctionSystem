@@ -1,2 +1,2 @@
-# ProjetoBD
-Sistema de leilões com base de dados.
+# Auction System
+Auction system using several technologies surrouding data bases. 
